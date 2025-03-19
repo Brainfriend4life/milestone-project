@@ -30,8 +30,13 @@ body {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
+<<<<<<< HEAD
     padding: auto;
     background-color: rgb(219, 211, 211);
+=======
+    padding: 20px;
+    background-color: white;
+>>>>>>> 969516339d4fb39a6cbec2cca2ede19b0d6a7093
     justify-content: center;
     align-items: center;
     height: 90%;
