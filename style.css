@@ -31,7 +31,7 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background-color: rgb(143, 10, 10);
+    background-color: white;
     justify-content: center;
     align-items: center;
     min-height: auto;
@@ -68,7 +68,7 @@ body {
   padding-bottom: 6em;
   padding-top: 3em;
   margin: 0 auto;
-  background-color: #d4d2d2;
+  background-color: silver;
 
 
 }
@@ -180,7 +180,7 @@ button {
     grid-template-columns: repeat(2, 1fr);
     gap: 0px;
     text-align: center;
-    background-color: rgb(160, 160, 211);
+    background-color: silver;
     margin-bottom: 20px;
     padding-top: -50em;
 }
@@ -266,7 +266,7 @@ button {
   font-size: 12px;
 }
 .helping {
-    background-color: rgb(194, 25, 25);
+    background-color: silver;
     display: flex;
     position: relative;
     flex-direction: column;
