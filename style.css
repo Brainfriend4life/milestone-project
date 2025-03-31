@@ -37,6 +37,7 @@ body {
     height: 90%;
     max-height: auto;
     margin-top: 1em;
+   
     
 }
   .nav2 {
@@ -482,13 +483,24 @@ position: relative;
     display: flex;
     position: relative;
 }
-@media (max-width: 1024px) {
+@media (max-width: 760px) {
     .container {
         flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
+        display: flex;
     }
 }
-@media (max-width: 600px) {
+/* small phones*/
+@media (max-width: 375px) {
     body {
-        font-size: 1rem;
+        font-size: 14px;
     }
+}
+/* medium phones*/
+@media (max-width: 425px) {
+    body {
+        font-size: 15px;
+    }
+   
 }
